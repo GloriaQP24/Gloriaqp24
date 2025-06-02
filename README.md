@@ -1,6 +1,6 @@
 ##  🚀 Sobre mi
 
-👋 ¡Hola! Soy Gloria Quispe, soy ingeniera de sistemas, apasionada por la tecnología, con interés en **Analisis de datos**, **ETL**, **Optimización de consultas SQL**. Comprometida con el aprendizaje continuo y con generar valor a tráves del uso estratégico de los datos.
+👋 ¡Hola! Soy Gloria Quispe, ingeniera de sistemas, con interés en **Analisis de datos**, **ETL**, **Optimización de consultas SQL**. Comprometida con el aprendizaje continuo y con generar valor a tráves del uso estratégico de los datos.
 
 
 ---
