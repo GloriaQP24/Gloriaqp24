@@ -1,6 +1,6 @@
 ## 🚀 Sobre mí
 
-👋 ¡Hola! Soy **Gloria Quispe**, Ingeniera de Sistemas con un fuerte interés en el **análisis de datos**, **procesos ETL** y la **optimización de consultas SQL**. Me apasiona transformar datos en información valiosa que impulse la toma de decisiones. Estoy comprometida con el aprendizaje continuo y con aportar valor mediante el uso estratégico de los datos.
+👋 ¡Hola! Soy **Gloria Quispe**, Ingeniera de Sistemas con interés en el **análisis de datos**, **procesos ETL** y la **optimización de consultas SQL**. Me apasiona transformar datos en información valiosa que impulse la toma de decisiones. Estoy comprometida con el aprendizaje continuo y con aportar valor mediante el uso estratégico de los datos.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 📈 Repositorios destacados
 
-### 📉 [Deserción de Clientes en Telecomunicaciones](https://github.com/Gloriaqp/Proyecto-Desercion-Clientes.git)
+### 📉 [Deserción de Clientes en Telecomunicaciones](https://github.com/GloriaQP24/telecom-customer-churn)
 
 - **Descripción:** Proyecto enfocado en identificar los factores clave que influyen en la deserción de clientes en una empresa de telecomunicaciones. Se realizó un análisis exploratorio y visual para entender su comportamiento, con el objetivo de proponer estrategias de retención.
 - **Herramientas:** Python, pandas, NumPy, Matplotlib, Seaborn
